@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\cc\main.cpp
+	<iostream>
+
+1684759157 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\cc\src\personne.cpp
+	"Personne.h"
+
+1684759522 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\cc\include\personne.h
+	<iostream>
+
+1684759720 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\cc\src\employe.cpp
+	"Employe.h"
+
+1684761677 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\cc\include\employe.h
+	"Personne.h"
+	<iostream>
+
+1684759203 source:c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\cc\src\chef.cpp
+	"Chef.h"
+
+1684759426 c:\users\alize\dropbox\mon pc (laptop-96en1v9m)\desktop\cours informatiques\miage\c++\cc\include\chef.h
+
